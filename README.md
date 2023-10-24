@@ -1,5 +1,3 @@
-# IMSIUBUS
-IMSIU Transportation System Project
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,6 +11,10 @@ IMSIU Transportation System Project
         .container {
             margin: 100px auto;
             max-width: 400px;
+        }
+
+        h1 {
+            font-size: 24px;
         }
 
         .button {
@@ -34,11 +36,12 @@ IMSIU Transportation System Project
 </head>
 <body>
     <div class="container">
-        <h1>Imam bus Professional Transportation Services</h1>
-      
+        <h1>Imam Bus Professional Transportation Services</h1>
+        <p>Welcome to our transportation services. Sign in or sign up to get started.</p>
 
         <a href="signin.html" class="button">Sign In</a>
         <a href="signup.html" class="button">Sign Up</a>
     </div>
 </body>
 </html>
+
