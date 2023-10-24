@@ -1,5 +1,3 @@
-# IMSIUBUS
-IMSIU Transportation System Project
 import wixData from 'wix-data';
 
 let debounceTimer;
