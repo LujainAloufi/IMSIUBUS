@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,21 +8,15 @@
 
     <div class="options">
         <a href="view.html">
-            <div class="rectangle">
-                <h2>View Bus Routes</h2>
-            </div>
+            <button>View Bus Routes</button>
         </a>
 
         <a href="search.html">
-            <div class="rectangle">
-                <h2>Search Nearest Station</h2>
-            </div>
+            <button>Search Nearest Station</button>
         </a>
 
         <a href="booking.html">
-            <div class="rectangle">
-                <h2>Book a Seat</h2>
-            </div>
+            <button>Book a Seat</button>
         </a>
     </div>
 </body>
